@@ -1,0 +1,317 @@
+.wrapper1 h1{
+    text-align: center;
+}
+.wrapper1 h2{
+    text-align: center;
+}
+.wrapper1 h1{
+    font-size: 11px;
+    letter-spacing: 4px;
+}
+.wrapper1 h2{
+    font-size: 90px;
+    padding-right: 0px;
+    padding-left: 0px;
+    line-height: 1;
+    margin-top: 0;
+  margin-bottom: 0;
+}
+@font-face {
+    font-family: "Bon Vivant Serif Bold";
+    src: url("/Fonts/Bon\ Vivant\ Serif\ Bold.ttf");
+}
+.wrapper1 h2{
+    font-family: "Bon Vivant Serif Bold";
+}
+.wrapper1 h3{
+    font-size: 70px;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    line-height: 1;
+}
+@font-face {
+    font-family: "BonVivant-Regular";
+    src: url("/Fonts/BonVivant-Regular.ttf");
+}
+.wrapper1 h3{
+    font-family: "BonVivant-Regular";
+}
+.wrapper1 h1{
+    margin-bottom: 80px;
+    margin-top: 10px;
+}
+
+@font-face {
+    font-family: "AktivGroteskCorp-Medium";
+    src: url("/Fonts/AktivGroteskCorp-Medium.ttf");
+}
+.class1{
+    font-family: "AktivGroteskCorp-Medium";
+    font-size: 18px;
+}
+.class2 img{
+    width: 60%;
+    height: 60%;
+}
+.wrapper1 img{
+    /* width: 10%;
+    height: 10%; */
+    margin-top: 100px;
+    margin-bottom: 5px;
+}
+/* .wrapper2{
+    width: 500px;
+    height: 427px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.wrapper3{
+    width: 417px;
+    height: 625px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.wrapper4{
+    width: 500px;
+    height: 427px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+} */
+.carousel{
+    height: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.carousel-item img{
+    width: 500px;
+    height: 100%;
+    object-fit: cover;
+}
+
+@font-face {
+    font-family: "AktivGroteskCorp-Medium";
+    src: url("/Fonts/AktivGroteskCorp-Medium.ttf");
+}
+.wrapper1 h1{
+    font-family: "AktivGroteskCorp-Medium";
+    font-size: 12px;
+}
+@font-face {
+    font-family: "AktivGroteskCorp-Medium";
+    src: url("/Fonts/AktivGroteskCorp-Medium.ttf");
+}
+.wrapper1 h4{
+    font-family: "AktivGroteskCorp-Medium";
+    font-size: 12px;
+    letter-spacing: 4px;
+    /* margin-top: 200px; */
+    margin-bottom: 70px;
+}
+.wrapper1 h5{
+    font-size: 70px;
+    padding-right: 0px;
+    padding-left: 0px;
+    line-height: 1;
+    margin-top: 0px;
+  margin-bottom: 0px;
+}
+@font-face {
+    font-family: "Bon Vivant Serif Bold";
+    src: url("/Fonts/Bon\ Vivant\ Serif\ Bold.ttf");
+}
+.wrapper1 h5{
+    font-family: "Bon Vivant Serif Bold";
+}
+@font-face {
+    font-family: "Bon Vivant Serif";
+    src: url("/Fonts/Bon\ Vivant\ Serif.ttf");
+}
+.wrapper1 h6{
+    font-family: "Bon Vivant Serif";
+}
+.wrapper1 h6{
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-style: oblique;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+@font-face {
+    font-family: "AktivGroteskCorp-Regular";
+    src: url("/Fonts/AktivGroteskCorp-Regular.ttf");
+}
+.wrapper1 p{
+    font-family: "AktivGroteskCorp-Regular";
+    font-size: 18px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+    line-height: 35px;
+    width: 300px;
+}
+.wrapper1 button{
+    font-family: "AktivGroteskCorp-Bold";
+   width: 300px;
+   height: 70px;
+    margin-top: 0px;
+    margin-bottom: 80px;
+    background: #c69175;
+}
+@font-face {
+    font-family: "AktivGroteskCorp-Bold";
+    src: url("/Fonts/AktivGroteskCorp-Bold.ttf");
+}
+.row img{
+/* width: 120%;
+height: 100%; */
+/* margin-top: 80px;
+margin-bottom: 80px; */
+max-width: auto;
+/* height: 150%;
+width: 150%; */
+}
+@font-face {
+    font-family: "AktivGroteskCorp-Medium";
+    src: url("/Fonts/AktivGroteskCorp-Medium.ttf");
+}
+.nav2{
+    font-family: "AktivGroteskCorp-Medium";
+    font-size: 18px;
+    height: 760px;
+    padding-top: 130px;
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-bottom: 0px;
+}
+.nav2 img{
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
+.nav2{
+    background: #272727;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+@font-face {
+    font-family: "AktivGroteskCorp-Light";
+    src: url("/Fonts/AktivGroteskCorp-Light.ttf");
+}
+.column5{
+    font-family: "AktivGroteskCorp-Light";
+}
+@font-face {
+    font-family: "AktivGroteskCorp-Light";
+    src: url("/Fonts/AktivGroteskCorp-Light.ttf");
+}
+.column6{
+    font-family: "AktivGroteskCorp-Light";
+}
+@font-face {
+    font-family: "AktivGroteskCorp-Light";
+    src: url("/Fonts/AktivGroteskCorp-Light.ttf");
+}
+.column7{
+    font-family: "AktivGroteskCorp-Light";
+}
+@font-face {
+    font-family: "AktivGroteskCorp-Medium";
+    src: url("/Fonts/AktivGroteskCorp-Medium.ttf");
+}
+.wrapper2 h4{
+    font-family: "AktivGroteskCorp-Medium";
+    font-size: 12px;
+    margin-top: 150px;
+}
+@font-face {
+    font-family: "AktivGroteskCorp-Medium";
+    src: url("/Fonts/AktivGroteskCorp-Medium.ttf");
+}
+.wrapper2 h4{
+    font-family: "AktivGroteskCorp-Medium";
+    font-size: 12px;
+    letter-spacing: 4px;
+    /* margin-top: 200px; */
+    margin-bottom: 70px;
+}
+.wrapper2 h5{
+    font-size: 70px;
+    /* padding-right: auto;
+    padding-left: auto; */
+    line-height: 1;
+    margin-top: 0px;
+  margin-bottom: 0px;
+}
+@font-face {
+    font-family: "Bon Vivant Serif Bold";
+    src: url("/Fonts/Bon\ Vivant\ Serif\ Bold.ttf");
+}
+.wrapper2 h5{
+    font-family: "Bon Vivant Serif Bold";
+}
+@font-face {
+    font-family: "Bon Vivant Serif";
+    src: url("/Fonts/Bon\ Vivant\ Serif.ttf");
+}
+.wrapper2 h6{
+    font-family: "Bon Vivant Serif";
+}
+.wrapper2 h6{
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-style: oblique;
+    padding-top: auto;
+    padding-bottom: auto;
+}
+@font-face {
+    font-family: "AktivGroteskCorp-Regular";
+    src: url("/Fonts/AktivGroteskCorp-Regular.ttf");
+}
+.wrapper2 .row{
+    font-family: "AktivGroteskCorp-Regular";
+    font-size: 18px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+    line-height: 35px;
+}
+.wrapper2 button{
+    font-family: "AktivGroteskCorp-Bold";
+   width: 300px;
+   height: 70px;
+    margin-top: 0px;
+    margin-bottom: 80px;
+    background: #c69175;
+}
+.wrapper2{
+    background: rgb(241, 241, 241);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.wrapper2 input{
+    width: 500px;
+   height: 70px;
+   margin-top: 0px;
+    margin-bottom: 80px;
+}
+@font-face {
+    font-family: "AktivGroteskCorp-Medium";
+    src: url("/Fonts/AktivGroteskCorp-Medium.ttf");
+}
+.wrapper2 label{
+    font-family: "AktivGroteskCorp-Medium";
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+.wrapper2 video{
+    width: auto;
+    height: 100%;
+    max-width: 100%;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
